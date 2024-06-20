@@ -12,5 +12,8 @@ public static void main(String args[]){
     arr [3] = 40;
     arr [4] = 50;
     System.out.println(arr[1]);
+
 }
 }
+
+
